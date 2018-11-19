@@ -1,1 +1,1 @@
-# Class 11/19/18
+# Run the program.cs file using dotnet for best results.
